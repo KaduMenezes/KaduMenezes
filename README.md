@@ -1,16 +1,35 @@
-### Hi there 👋
 
-<!--
-**KaduMenezes/KaduMenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align ="center">Bem vindo ao meu MUNDO 🌎 Git</h1>
+<h3 align="center">Olá, meu nome é Carlos Eduardo</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>Linguagens e Ferramentas</h3>
+  
+  <img
+    height="150px"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KaduMenezes&layout=compact&langs_count=7&theme=dracula"
+  />
+  
+  <div align="center">
+    <img
+      height="50px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
+    />
+    <img
+      height="50px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"
+    />
+    <img
+      height="50px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"
+    />
+    <img
+      height="50px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
+    />
+    <img
+      height="50px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+    />
+  </div>
+</div>
